@@ -35,7 +35,7 @@ A Flask data application that analyses data to give prediction to clothing purch
 
 ## Let's connect
 
-- Github: [https://github.com/cyp186]
+- Portfolio: [https://chanyong-portfolio.vercel.app/]
 - LinkedIn: [https://www.linkedin.com/in/chanyong-park-4b2416355/]
 - Email: [chanyongpark199@gmail.com]
 
