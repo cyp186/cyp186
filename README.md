@@ -24,7 +24,7 @@ An AI-assisted enquiry management platform for small businesses, with knowledge-
 
 ### [Atelier](https://github.com/cyp186/atelier_clothing_recommendation)
 
-A Flask data application that turns complex road-safety data into guided cohort analysis and clear visual comparisons.
+A Flask data application that analyses data to give prediction to clothing purchase.
 
 - Built database-backed filters, aggregate queries, and adaptive visualisations.
 - Used Python, Flask, SQLite, JavaScript, HTML, and CSS.
